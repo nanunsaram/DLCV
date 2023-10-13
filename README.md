@@ -5,7 +5,7 @@ This is my unofficial solution to the assignments of UMich EECS 498.008 / 598.00
 A random student.
 
 # Disclaimers
-The course materials, content, and any related intellectual property belong to the original creators of the course. You can find everything from their [website](https://web.eecs.umich.edu/~justincj/teaching/eecs498/WI2022/)
+The course materials, content, and any related intellectual property belong to the original creators of the course. You can find everything from their [website](https://web.eecs.umich.edu/~justincj/teaching/eecs498/WI2022/).
 
 This repository and its contents are provided for educational and informational purposes only. I am not responsible for any misuse, illegal, or dishonest use of the materials contained herein. 
 
